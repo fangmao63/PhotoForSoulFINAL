@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Photo for soul</string>
+    <string name="item_favourite">Любимые фото</string>
+    <string name="item_all">Все фото</string>
+</resources>
